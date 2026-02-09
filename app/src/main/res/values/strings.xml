@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocQar Locker</string>
+    <string name="notification_channel_daemon">Locker Daemon</string>
+    <string name="notification_daemon_title">LocQar Locker Active</string>
+    <string name="notification_daemon_text">Locker control service running</string>
+</resources>
